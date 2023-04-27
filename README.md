@@ -27,3 +27,9 @@ The model's performance was evaluated using accuracy, precision, recall, and F1-
 ## **Conclusion**
 
 The RandomForestClassifier algorithm is an effective method for detecting fraudulent credit card transactions. The model achieved a high level of accuracy and performance, which suggests it can be used in real-world applications for detecting fraud.
+
+## **Date Created**
+May 2023
+
+## **Creator**
+Gideon Ogunbanjo
