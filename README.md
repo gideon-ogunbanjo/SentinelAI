@@ -22,7 +22,7 @@ The feature selection was done by analyzing the correlation matrix between the f
 
 ### Model Performance
 
-The model's performance was evaluated using accuracy, precision, recall, and F1-score. The model achieved an accuracy of 99.9%, a precision of 0.975, a recall of 0.795, and an F1-score of 0.877.
+The model's performance was evaluated using accuracy, precision, recall, and F1-score. The model achieved an accuracy of 99.9%, a precision of 0.975, a recall of 0.795, an F1-score of 0.877, and a Matthews correlation coefficient of 0.86.
 
 ### Conclusion
 
