@@ -22,7 +22,7 @@ The feature selection was done by analyzing the correlation matrix between the f
 
 ### Model Performance
 
-The model's performance was evaluated using accuracy, precision, recall, and F1-score. The model achieved an accuracy of 99.9%, a precision of 0.943, a recall of 0.761, and an F1-score of 0.844. The model's performance was further improved by hyperparameter tuning.
+The model's performance was evaluated using accuracy, precision, recall, and F1-score. The model achieved an accuracy of 99.9%, a precision of 0.975, a recall of 0.795, and an F1-score of 0.877.
 
 ### Conclusion
 
