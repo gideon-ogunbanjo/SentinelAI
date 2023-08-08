@@ -5,6 +5,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib import gridspec
 import streamlit as st
+import pickle as pkl
+
+
+# loading and reading the file
+# Opening the file
+model = pkl.load(open('Model/sentinelAI.pkl', 'rb'))
 
 # Welcome Page and Page Configuration
 st.set_page_config(
