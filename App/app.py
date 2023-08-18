@@ -16,6 +16,8 @@ model = pkl.load(open('Model/sentinelAI.pkl', 'rb'))
 st.set_page_config(
     page_title="SentinelAI",
     initial_sidebar_state="expanded",
+    layout="centered"
 )
 
 st.title("SentinelAI - Credit Card Fraud Detector")
+st.write("This app uses a trained Random Forest Classifier to predict whether a credit card transaction is fraudulent or not.")
